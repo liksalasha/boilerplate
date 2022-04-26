@@ -1,5 +1,5 @@
 # boilerplate
-execute os comandos abaixo
+execute os comandos abaixo:     (caso use vs code),use o terminal do 'vs code'
 
 $ npm install 
  
