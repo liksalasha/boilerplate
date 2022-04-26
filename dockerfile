@@ -1,4 +1,3 @@
-
 ## Comando obrigatório
 ## Baixa a imagem do node com versão alpine (versão mais simplificada e leve)
 FROM node:alpine
